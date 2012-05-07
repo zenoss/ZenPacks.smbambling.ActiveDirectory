@@ -5,7 +5,7 @@
 NAME = 'ZenPacks.smbambling.ActiveDirectory'
 VERSION = '1.0'
 AUTHOR = 'Steven Bambling'
-LICENSE = 'GPLv2'
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.smbambling']
 PACKAGES = ['ZenPacks', 'ZenPacks.smbambling', 'ZenPacks.smbambling.ActiveDirectory']
 INSTALL_REQUIRES = ['ZenPacks.community.WMIDataSource>=2.8']
